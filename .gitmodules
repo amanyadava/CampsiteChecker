@@ -1,0 +1,3 @@
+[submodule "submodules/recreation-gov-campsite-checker"]
+	path = submodules/recreation-gov-campsite-checker
+	url = https://github.com/banool/recreation-gov-campsite-checker.git
